@@ -88,3 +88,7 @@ OpenTURNS Presentations
   - `Auto-associative models as a nonlinear PCA for dimension reduction (Phimeca) <https://github.com/openturns/presentation/blob/master/high-dim-meta-2021/modele_autoassociatif_PHIMECA.pdf>`_
 
 - `SIAM-UQ 2022 <https://github.com/openturns/openturns.github.io/blob/master/presentation/master/siamuq-2022-slides-OpenTURNS.pdf>`_
+
+- Smolyak:
+
+  - `Quadrature de Smolyak <QuadratureSmolyak.pdf>`_
